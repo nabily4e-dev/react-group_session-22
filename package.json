@@ -1,0 +1,19 @@
+{
+  "name": "react-group-session_22",
+  "private": true,
+  "workspaces": [
+    "react-ts-hooks-use-memo",
+    "react-ts-hooks-use-context",
+    "react-ts-hooks-use-effect",
+    "react-ts-hooks-use-effect-cleanup",
+    "react-ts-hooks-use-effect-lab",
+    "react-ts-hooks-data-fetching",
+    "react-ts-hooks-simple-data-fetching-lab",
+    "react-ts-hooks-fetch-crud-code-along",
+    "react-ts-hooks-fetch-crud-lab"
+  ],
+  "packageManager": "yarn@3.6.3",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
